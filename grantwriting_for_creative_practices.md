@@ -101,7 +101,9 @@ The best way to learn is to apply.
 
 ### Funding Research
 1. **Identify the funding stream or likely funder**
-	* Example: [The Foundation Center](https://foundationcenter.org/) 
+	* Example: [The Foundation Center](https://foundationcenter.org/) and [Grantspace](https://grantspace.org/resources/knowledge-base/funding-for-individual-artists/)
+	* [NYFA Source](http://source.nyfa.org/content/search/search.aspx?SA=1)
+	* [Americans for the Arts](https://www.americansforthearts.org/by-topic/funding-resources)
 
 2. **Look at that funder's cycles and RFPs**
 	* Example: [Creative Capital](https://creative-capital.org/)
