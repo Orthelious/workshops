@@ -192,9 +192,10 @@ You can use this exercise to calculate the minimum hourly rate you need to charg
 			Freelancer
 			$40,000 / (1 - .31) = $57,971
 			$57,971 / 2,000 = $29/hour
+
 			
 **2. Base Day Rate**  
-Assuming 8 hours in a workday, we can calculate a minimum base rate by diving 2,000 hours by 8, giving us 250 days.
+Assuming 8 hours in a workday, we can calculate a minimum base rate by dividing 2,000 hours by 8, giving us 250 days.
 
 			Employee 
 			$40,000 / (1 - .23) = $51,948
@@ -239,9 +240,9 @@ The final point of this workshop is to develop two pies (see, I told you it was 
 
 Where you make your money and where you spend your resources are *two different things.* 
 
-Your practice can be successful and make no money. You're hustle could be low-stress, low-effort but bring in the majority of your cash. You could spend most of your resources on advancing your career. 
+Your practice can be successful and make no money. Your hustle could be low-stress, low-effort but bring in the majority of your cash. You could spend most of your resources on advancing your career. 
 
-The point here is to dispel the myth that *your practice = making a living.*
+The point here is to dispel the myth that *your practice = how you making a living.*
 
 We're creative people and our lives are complicated. Apply business strategies to match, adjust the recipes to fit your needs and give it a shot. 
 
