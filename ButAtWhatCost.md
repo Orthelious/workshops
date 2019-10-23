@@ -130,26 +130,34 @@ When you operate in business, there are two primary groups that workers fall int
 
 *These distinctions are very important to understand.* If you're doing business for yourself, you're a freelancer. If you do work for someone else, whether you're a freelancer or employee needs to be discussed with the person paying you for the work. 
 
+For a more in-depth answer, the IRS offers a an explanation: [https://www.irs.gov/newsroom/understanding-employee-vs-contractor-designation
+](https://www.irs.gov/newsroom/understanding-employee-vs-contractor-designation)
 >Who can give some examples from their life?
 
 ## 6. Taxes!
 We all have to pay them. Taxes differ widely whether you're an employee or an independant contractor. What I've included for this workshop is a *very approximate average that is on the high end to illustrate a point.* 
 
+Want to know what the actual percentage is? Go here: https://www.taxformcalculator.com/tax.html
+
 1. Employees  
 
-		Income Tax = Avg 15%  
+		Income Tax (Federal and State) = Avg 15%  
 		SS/Medicare = Avg 8%
 		
 		Total Taxes = 23%
 
 2. Freelancers
 
-		Income Tax = Avg 15%
+		Income Tax (Federal and State) = Avg 15%
 		SS/Medicare* = Avg 16%
 		
 		Total Taxes = Avg 31%
 		
-		*This is higher because as a self-employed person, you have to pay for yourself plus what an employer would normally pay (8%+8%).
+		*This is higher because as a self-employed person, you have to pay for yourself plus what an employer would normally have to pay for an employee (8%+8%).
+
+**CAVEAT:** There are ways to reduce the amount of taxes you must pay. This is primarily done through business deductions. You can read a more in-depth explanation here: [https://www.investopedia.com/terms/t/tax-deduction.asp](https://www.investopedia.com/terms/t/tax-deduction.asp)
+
+For the purposes of this workshop, we're just going to assume you're paying the full tax amount.
 
 ## 7. Applying the Formula
 
@@ -217,11 +225,23 @@ Let's assume you work 32 hours a week at a hustle job, which is paying you a wag
 			4,000 - (4,000 x 31% tax rate) = 2,760
 			
 			TOTAL NET INCOME = $27,524
-			
+
 
 ## 8. The Two Pies
 
-Let's go back to our pie from the beginning of the workshop: 
+The final point of this workshop is to develop two pies (see, I told you it was about baking!). 
 
+* One pie for *how you spend your efforts and resources.*
 ![](https://github.com/Orthelious/workshops/blob/master/Images/WorkTime.gif?raw=true)
+
+* The other pie for *where you income is coming from*. 
+![](https://github.com/Orthelious/workshops/blob/master/Images/HowYouMakeMoney.gif?raw=true)
+
+Where you make your money and where you spend your resources are *two different things.* 
+
+Your practice can be successful and make no money. You're hustle could be low-stress, low-effort but bring in the majority of your cash. You could spend most of your resources on advancing your career. 
+
+The point here is to dispel the myth that *your practice = making a living.*
+
+We're creative people and our lives are complicated. Apply business strategies to match, adjust the recipes to fit your needs and give it a shot. 
 
