@@ -74,7 +74,7 @@ I want you to take a few minutes to envision yourself one year from your graduat
 
 * *Where do you live?*
 
-* *How much do your work?*
+* *How much do you work?*
 
 * *What is worrying for you?*
 
