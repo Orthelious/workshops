@@ -61,9 +61,9 @@ You expend your effort, your time and your money.
 * **Career** — Your professional presentation to the world. 
 * **Hustle** — How you make money.
 
-These things can be related. Your hustle could also be your career. Your practice could be the moneymaker. Your career can incorporte both your hustle and your practice. 
+These things can be related. Your hustle could also be your career. Your practice could be the moneymaker. Your career can incorporate both your hustle and your practice. 
 
-But for the purpose of this workshop, I want you to seperate them in you mind becaiuse they are *very* different types of activites. 
+But for the purpose of this workshop, I want you to seperate them in you mind because they are *very* different types of activites. 
 
 >Who can give some examples from their life?
 
